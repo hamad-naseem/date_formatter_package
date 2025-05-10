@@ -4,6 +4,15 @@ A simple and customizable Dart package to format `DateTime` objects in human-rea
 
 ---
 
+## Group No 4
+### **Group Members:**
+  - **Hamad Naseem** - 2280143  
+  - **Muhammad Bin Tariq** - 2280150  
+  - **Rehan Badshah** - 2280159
+      
+- **Topic:** Date Formatter
+
+---
 ## Features
 
 - Format date as `DD/MM/YYYY` (e.g., `10/05/2025`)
